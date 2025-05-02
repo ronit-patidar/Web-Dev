@@ -1,0 +1,1 @@
+console.table({name:"Ronit Patidar",age:21,canCode:true,canfly:false});

@@ -1,0 +1,1 @@
+// In js , when you create an object using a constructor function,all instances share the properties and methods attached to that functions prototype.
